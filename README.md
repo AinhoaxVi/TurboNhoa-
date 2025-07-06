@@ -28,13 +28,6 @@ Este blog es mi rincón para expresarme. Aquí vas a encontrar un poco de todo:
 
 ---
 
-## 🧠 ¿Quién la ha hecho?
-
-Yo, con ayuda de ChatGPT, pero poniendo mi alma y estilo en cada píxel.  
-Código 100% editable, personalizable y con potencial para crecer más que mi lista de dramas semanales.
-
----
-
 ## 🔗 Live demo
 
 📍 Visítalo en:  
